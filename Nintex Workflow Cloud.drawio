@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-12T21:22:00.099Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="ch863d7Wfd2D88vHZL6d" version="12.6.7" type="github" pages="7">
+<mxfile modified="2020-02-12T21:25:47.544Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="nvze3k2Xw50v3FHw16aM" version="12.6.7" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="3686" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -453,7 +453,7 @@
             <mxPoint x="1700" y="2270" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-45" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="2820" as="sourcePoint"/>
             <mxPoint x="1700" y="2820" as="targetPoint"/>
@@ -527,23 +527,16 @@
             <mxPoint x="1710" y="3010" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-65" target="8nMWRrY7rZkJ8qwe4VPy-68" parent="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-65" value="GM selects link in email" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="655.5" y="2710.5" width="105" height="39" as="geometry"/>
-        </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-68" parent="1">
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-65" target="8nMWRrY7rZkJ8qwe4VPy-90">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="2380" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="840" y="2905"/>
-              <mxPoint x="840" y="2380"/>
+              <mxPoint x="800" y="2730"/>
+              <mxPoint x="800" y="2381"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-68" value="GM Does Nothing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="2880" width="122" height="50" as="geometry"/>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-65" value="GM DOES NOTHING AFTER XX DAYS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="655.5" y="2710.5" width="105" height="39" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1099.71" width="795" height="145" as="geometry"/>
@@ -557,7 +550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-80" value="Notification Email" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="918" y="2700" width="140" height="60" as="geometry"/>
+          <mxGeometry x="845" y="2700" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-82" target="8nMWRrY7rZkJ8qwe4VPy-87" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -565,31 +558,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-82" value="Delegation Form" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="948" y="2820" width="80" height="80" as="geometry"/>
+          <mxGeometry x="875" y="2860" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-84" target="8nMWRrY7rZkJ8qwe4VPy-82" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="2780"/>
               <mxPoint x="1085" y="2780"/>
-              <mxPoint x="1085" y="2860"/>
+              <mxPoint x="1085" y="2780"/>
+              <mxPoint x="1085" y="2900"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-84" value="Incomplete Email 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1114" y="2700" width="136" height="60" as="geometry"/>
+          <mxGeometry x="1017" y="2689.5" width="136" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-86" target="8nMWRrY7rZkJ8qwe4VPy-82" parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1258" y="2900"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-86" value="Incomplete Email 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1333" y="2700" width="136" height="60" as="geometry"/>
+          <mxGeometry x="1190" y="2689.5" width="136" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-87" value="Completion Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1548" y="2700" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1360" y="2689.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-88" value="Types of Emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2650" width="156" height="20" as="geometry"/>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-90" value="Trigger Notification Email Reminder" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2336" width="80" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-92" value="&lt;font color=&quot;#ff3333&quot;&gt;Need business requirements for this. After how many days do we want to send a reminder email?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="2749.5" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-93" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="8nMWRrY7rZkJ8qwe4VPy-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.000000000000227" y="2820" as="sourcePoint"/>
+            <mxPoint x="1700" y="2820" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
