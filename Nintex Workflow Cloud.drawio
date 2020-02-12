@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-12T19:01:49.064Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="rgRmrGve3POtRsZxMs7X" version="12.6.7" type="github" pages="7">
+<mxfile modified="2020-02-12T20:46:22.820Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="zcKkvGEansx-YPc3Bm6S" version="12.6.7" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="2268" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -393,11 +393,29 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-23" value="&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;Where is the GM list being stored? How is it calling the GM email addresses&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1220" width="140" height="100" as="geometry"/>
         </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-24" target="8nMWRrY7rZkJ8qwe4VPy-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-24" target="8nMWRrY7rZkJ8qwe4VPy-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-24" value="GM Fills out forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647" y="1840" width="122" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Fill out/Submit or send to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;delegatee&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1820" width="100" height="90" as="geometry"/>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Fill out form&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1790" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-28" target="8nMWRrY7rZkJ8qwe4VPy-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-28" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Send to D&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;elegate&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1870" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-30" value="&lt;font color=&quot;#ff3333&quot;&gt;This is a trigger within the Form that GM selects. Name and Email are filled out triggering email to Delegatee&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1920" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-31" value="Delegatee selects link to Form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1295" width="130" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
