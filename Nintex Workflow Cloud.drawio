@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-12T20:46:22.820Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="zcKkvGEansx-YPc3Bm6S" version="12.6.7" type="github" pages="7">
+<mxfile modified="2020-02-12T21:22:00.099Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="ch863d7Wfd2D88vHZL6d" version="12.6.7" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3686" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -204,43 +204,43 @@
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" parent="1" source="sc_KsfpVJdUkeSvnWPon-1" target="sc_KsfpVJdUkeSvnWPon-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="98" y="1030" as="targetPoint"/>
+            <mxPoint x="78" y="920" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-1" value="Notification Email" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="900" width="140" height="60" as="geometry"/>
+          <mxGeometry x="8" y="790" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" parent="1" source="sc_KsfpVJdUkeSvnWPon-3" target="sc_KsfpVJdUkeSvnWPon-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="728" y="940" as="targetPoint"/>
+            <mxPoint x="708" y="830" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-3" value="Delegation Form" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="58" y="1020" width="80" height="80" as="geometry"/>
+          <mxGeometry x="38" y="910" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" parent="1" source="sc_KsfpVJdUkeSvnWPon-4" target="sc_KsfpVJdUkeSvnWPon-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="980"/>
-              <mxPoint x="195" y="980"/>
-              <mxPoint x="195" y="1060"/>
+              <mxPoint x="300" y="870"/>
+              <mxPoint x="175" y="870"/>
+              <mxPoint x="175" y="950"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-4" value="Incomplete Email 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="224" y="900" width="136" height="60" as="geometry"/>
+          <mxGeometry x="204" y="790" width="136" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" parent="1" source="sc_KsfpVJdUkeSvnWPon-6" target="sc_KsfpVJdUkeSvnWPon-3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-6" value="Incomplete Email 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="443" y="900" width="136" height="60" as="geometry"/>
+          <mxGeometry x="423" y="790" width="136" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sc_KsfpVJdUkeSvnWPon-10" value="Completion Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="658" y="900" width="120" height="60" as="geometry"/>
+          <mxGeometry x="638" y="790" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="BBtHpRrpy5ZNoWd_F2AZ-1" value="Types of Emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="20" y="850" width="156" height="20" as="geometry"/>
+          <mxGeometry y="740" width="156" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="azbRZ2iM2bz9G2oL4egk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="azbRZ2iM2bz9G2oL4egk-3" target="azbRZ2iM2bz9G2oL4egk-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -361,7 +361,7 @@
           <mxGeometry x="270" y="1481" width="70" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-12" value="Show all existing matters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="1455" width="110" height="45" as="geometry"/>
+          <mxGeometry x="506" y="1470" width="110" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=classic;startFill=1;startSize=5;endArrow=classic;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" edge="1" target="8nMWRrY7rZkJ8qwe4VPy-11" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -391,7 +391,7 @@
           <mxGeometry x="820" y="740" width="80" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-23" value="&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;Where is the GM list being stored? How is it calling the GM email addresses&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1220" width="140" height="100" as="geometry"/>
+          <mxGeometry x="638" y="1195" width="140" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-24" target="8nMWRrY7rZkJ8qwe4VPy-26">
           <mxGeometry relative="1" as="geometry"/>
@@ -402,20 +402,194 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-24" value="GM Fills out forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647" y="1840" width="122" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-26" target="8nMWRrY7rZkJ8qwe4VPy-33">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Fill out form&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="830" y="1790" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-28" target="8nMWRrY7rZkJ8qwe4VPy-31">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-28" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Send to D&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;elegate&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1870" width="80" height="60" as="geometry"/>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-28" target="8nMWRrY7rZkJ8qwe4VPy-33">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-30" value="&lt;font color=&quot;#ff3333&quot;&gt;This is a trigger within the Form that GM selects. Name and Email are filled out triggering email to Delegatee&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1920" width="140" height="100" as="geometry"/>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-28" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Send to D&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;elegate&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1860" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-30" value="&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;GM adds Name and Email of Delegate. Submission triggers an email to Delegatee. Does this email look different from the GM email?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="1890" width="140" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-31" value="Delegatee selects link to Form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1295" width="130" height="45" as="geometry"/>
+          <mxGeometry x="1020" y="1667.5" width="130" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-33" value="Update table in TC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1477" width="130" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-39" value="NWC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2350" width="156" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-40" value="TeamConnect" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2540" width="156" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-41" value="Outlook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2720" width="156" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-42" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="2450" as="sourcePoint"/>
+            <mxPoint x="1700" y="2450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-43" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="2640" as="sourcePoint"/>
+            <mxPoint x="1700" y="2640" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-44" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1.2899999999999636" y="2270" as="sourcePoint"/>
+            <mxPoint x="1700" y="2270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="2820" as="sourcePoint"/>
+            <mxPoint x="1700" y="2820" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-46" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="56.000000000000455" y="3010" as="sourcePoint"/>
+            <mxPoint x="56.000000000000455" y="2270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-47" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2340" width="46" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-49" target="8nMWRrY7rZkJ8qwe4VPy-53" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-49" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Rest Call For Org Listing&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2339.25" width="80" height="43.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-47" target="8nMWRrY7rZkJ8qwe4VPy-49" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-51" value="Trigger WF" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="2336" width="60" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-53" target="8nMWRrY7rZkJ8qwe4VPy-56" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505.3529411764707" y="2366.470588235294" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-53" value="Filter org listing for appropriate orgs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379.71000000000004" y="2338.5" width="90" height="43.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-56" target="8nMWRrY7rZkJ8qwe4VPy-58" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-56" target="8nMWRrY7rZkJ8qwe4VPy-60" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-56" value="&lt;span style=&quot;font-size: 9px ; white-space: normal&quot;&gt;Pick first Org query TC matter for next Org&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2335" width="102" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-58" target="8nMWRrY7rZkJ8qwe4VPy-65" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-58" value="Generate list of Hotels to send to Email GM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="2336.25" width="100" height="48.75" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-59" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px&quot;&gt;Pull from&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2521" width="70" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-60" value="Show all existing matters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="2510" width="110" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=classic;startFill=1;startSize=5;endArrow=classic;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" edge="1" target="8nMWRrY7rZkJ8qwe4VPy-59" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="2485.5"/>
+              <mxPoint x="309" y="2485.5"/>
+            </Array>
+            <mxPoint x="310" y="2389.970588235294" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-62" value="Nintex Forms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2910" width="156" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-63" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="3010" as="sourcePoint"/>
+            <mxPoint x="1710" y="3010" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-65" target="8nMWRrY7rZkJ8qwe4VPy-68" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-65" value="GM selects link in email" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="655.5" y="2710.5" width="105" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-68" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="2380" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="840" y="2905"/>
+              <mxPoint x="840" y="2380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-68" value="GM Does Nothing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="2880" width="122" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1099.71" width="795" height="145" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-78" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 1: GM Does Nothimg&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2140" width="795" height="145" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-80" target="8nMWRrY7rZkJ8qwe4VPy-82" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="988" y="2830" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-80" value="Notification Email" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="918" y="2700" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-82" target="8nMWRrY7rZkJ8qwe4VPy-87" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1618" y="2740" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-82" value="Delegation Form" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="948" y="2820" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-84" target="8nMWRrY7rZkJ8qwe4VPy-82" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="2780"/>
+              <mxPoint x="1085" y="2780"/>
+              <mxPoint x="1085" y="2860"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-84" value="Incomplete Email 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="2700" width="136" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;" edge="1" source="8nMWRrY7rZkJ8qwe4VPy-86" target="8nMWRrY7rZkJ8qwe4VPy-82" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-86" value="Incomplete Email 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1333" y="2700" width="136" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-87" value="Completion Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1548" y="2700" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-88" value="Types of Emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2650" width="156" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
