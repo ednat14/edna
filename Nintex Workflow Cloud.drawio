@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-12T17:12:51.664Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="aUm_q4Yzl7GBww2njAh7" version="12.6.7" type="github" pages="7">
+<mxfile modified="2020-02-12T19:01:49.064Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="rgRmrGve3POtRsZxMs7X" version="12.6.7" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2268" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -23,9 +23,6 @@
         </mxCell>
         <mxCell id="BmFO_RdT87XnYKMUfhhx-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 44px&quot; color=&quot;#ff3333&quot;&gt;In Progress&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PGYInxgWmDi8EZxte10v-2" vertex="1">
           <mxGeometry x="400" y="19" width="330" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="E9ECh_UPbONzbFu1dNAJ-1" value="&lt;font color=&quot;#ff3333&quot;&gt;Where is the GM list being stored? How is it calling the GM email addresses&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=0;" vertex="1" parent="PGYInxgWmDi8EZxte10v-2">
-          <mxGeometry x="350" y="49" width="80" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="PGYInxgWmDi8EZxte10v-11" value="Nintex" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=#FF8000;" parent="PGYInxgWmDi8EZxte10v-1" vertex="1">
           <mxGeometry y="179" width="1370" height="150" as="geometry">
@@ -194,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="azbRZ2iM2bz9G2oL4egk-26" value="&lt;span style=&quot;white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Delegate to hotel employee&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="PGYInxgWmDi8EZxte10v-31" vertex="1">
-          <mxGeometry x="600" y="32" width="94" height="80" as="geometry"/>
+          <mxGeometry x="620" y="32" width="94" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="YZrvhcGg3bBq6SKttKHH-1" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Update all Entries or Select(No Update); Add New Entries&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PGYInxgWmDi8EZxte10v-31" vertex="1">
           <mxGeometry x="855.5" y="52" width="114" height="50" as="geometry"/>
@@ -295,25 +292,25 @@
         <mxCell id="E9ECh_UPbONzbFu1dNAJ-8" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1410" as="sourcePoint"/>
-            <mxPoint x="1282" y="1410" as="targetPoint"/>
+            <mxPoint x="1700" y="1410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="E9ECh_UPbONzbFu1dNAJ-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1600" as="sourcePoint"/>
-            <mxPoint x="1282" y="1600" as="targetPoint"/>
+            <mxPoint x="1700" y="1600" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="E9ECh_UPbONzbFu1dNAJ-10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1.2899999999999991" y="1230" as="sourcePoint"/>
-            <mxPoint x="1270.71" y="1230" as="targetPoint"/>
+            <mxPoint x="1700" y="1230" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="E9ECh_UPbONzbFu1dNAJ-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1780" as="sourcePoint"/>
-            <mxPoint x="1282" y="1780" as="targetPoint"/>
+            <mxPoint x="1700" y="1780" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="E9ECh_UPbONzbFu1dNAJ-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
@@ -354,6 +351,9 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-9" value="&lt;span style=&quot;font-size: 9px ; white-space: normal&quot;&gt;Pick first Org query TC matter for next Org&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" vertex="1" parent="1">
           <mxGeometry x="510" y="1295" width="102" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-10" target="8nMWRrY7rZkJ8qwe4VPy-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-10" value="Generate list of Hotels to send to Email GM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="658" y="1296.25" width="100" height="48.75" as="geometry"/>
         </mxCell>
@@ -378,8 +378,26 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-20" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1970" as="sourcePoint"/>
-            <mxPoint x="1282" y="1970" as="targetPoint"/>
+            <mxPoint x="1710" y="1970" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-21" target="8nMWRrY7rZkJ8qwe4VPy-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-21" value="GM selects link in email" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="655.5" y="1670.5" width="105" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="E9ECh_UPbONzbFu1dNAJ-1" value="&lt;font color=&quot;#ff3333&quot;&gt;Where is the GM list being stored? How is it calling the GM email addresses&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="740" width="80" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-23" value="&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;Where is the GM list being stored? How is it calling the GM email addresses&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1220" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-24" value="GM Fills out forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="1840" width="122" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Fill out/Submit or send to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;delegatee&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1820" width="100" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
