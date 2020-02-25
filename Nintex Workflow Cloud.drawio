@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-25T15:07:38.009Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="3t_1q5JlbY8UUYyWwSab" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-25T15:11:14.726Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="fdKPHGhdR35rPCmy27Mc" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
     <mxGraphModel dx="2037" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -548,11 +548,11 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-65" value="GM DOES NOTHING AFTER XX DAYS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="2825" y="2740" width="110.5" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Workflow 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1100" width="795" height="145" as="geometry" />
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Workflow 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1100" width="795" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-78" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 2: GM Does Nothing&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="2130" width="795" height="145" as="geometry" />
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-78" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 2: GM Does Nothing&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="15" y="2140" width="795" height="145" as="geometry" />
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;startArrow=classic;startFill=1;" parent="1" source="8nMWRrY7rZkJ8qwe4VPy-80" target="8nMWRrY7rZkJ8qwe4VPy-82" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -725,8 +725,8 @@
         <mxCell id="-5dcCS5CZfdqEaUEvbBu-31" value="GM DOES NOTHING AFTER XX DAYS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="764" y="3810" width="110.5" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-32" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 3: XXX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="3240" width="795" height="145" as="geometry" />
+        <mxCell id="-5dcCS5CZfdqEaUEvbBu-32" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 3: XXX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="97.21000000000001" y="3240" width="795" height="145" as="geometry" />
         </mxCell>
         <mxCell id="-5dcCS5CZfdqEaUEvbBu-42" value="Trigger Notification Email Reminder" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1024" y="3446.25" width="90" height="96" as="geometry" />
@@ -914,6 +914,18 @@
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-91" value="Workflow back to Scenario 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-93" value="&lt;font color=&quot;#ff3333&quot;&gt;Should the GM get a completion email?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1470" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
+          <mxGeometry x="689" y="1876" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1460" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
+          <mxGeometry x="822" y="1290" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
