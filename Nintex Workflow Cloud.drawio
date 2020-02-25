@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-25T14:49:44.884Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="cwJfIFC0xwjUe0f-9iMw" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-25T15:00:11.737Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="hztJQAbDcqnHqPIlTnKs" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -880,84 +880,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-55" value="GM does nothing after XX days" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="675.5" y="2700.5" width="105" height="39" as="geometry" />
+          <mxGeometry x="675.5" y="2900" width="105" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" target="cyFbFdzZiBKztFkAnU6W-60" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="2895" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" target="cyFbFdzZiBKztFkAnU6W-63" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1221" y="2895" />
-              <mxPoint x="1221" y="2920" />
-            </Array>
-            <mxPoint x="1190" y="2895" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="cyFbFdzZiBKztFkAnU6W-60" target="cyFbFdzZiBKztFkAnU6W-65" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1291" y="2686" />
-              <mxPoint x="1383" y="2686" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-60" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Fill out form&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="2820" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="cyFbFdzZiBKztFkAnU6W-63" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1506" y="2742.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="cyFbFdzZiBKztFkAnU6W-63" target="cyFbFdzZiBKztFkAnU6W-65" parent="1">
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-77" target="cyFbFdzZiBKztFkAnU6W-81">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-63" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Send to D&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;elegate&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1376" y="2890" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-65" value="Update table in TC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1351" y="2507" width="130" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" source="cyFbFdzZiBKztFkAnU6W-67" target="cyFbFdzZiBKztFkAnU6W-69" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-67" value="&lt;span style=&quot;white-space: normal&quot;&gt;Delegatee selects link to Form&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="2669.5" width="96" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" source="cyFbFdzZiBKztFkAnU6W-69" target="cyFbFdzZiBKztFkAnU6W-71" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-69" value="Delegate Completes Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="2870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" source="cyFbFdzZiBKztFkAnU6W-71" target="cyFbFdzZiBKztFkAnU6W-73" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-71" value="Update New TC Fields in TC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="2511" width="116" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="cyFbFdzZiBKztFkAnU6W-73" target="cyFbFdzZiBKztFkAnU6W-74" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2031" y="2570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-73" value="Complete Certification Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1841" y="2870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-74" value="Update New TC Fields in TC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1971" y="2517" width="116" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
-          <mxGeometry x="1495" y="2652" width="28" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-76" value="&lt;font color=&quot;#ff3333&quot;&gt;Where are we capturing Delegate info? First Name/Last Name and Email. Is this going to live in TC?&amp;nbsp;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1351" y="2750" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-77" value="Generate Reminder email 1 if Submit is not triggered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="2320" width="110" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-81" target="cyFbFdzZiBKztFkAnU6W-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-81" value="GM does nothing after XX days" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="919" y="2900" width="105" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-83" target="cyFbFdzZiBKztFkAnU6W-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-83" value="Generate Reminder email 2 if Submit is not triggered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2316" width="110" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-87" value="GM selects link to form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2691" width="105" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-90" value="GM submits form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="2890.5" width="105" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
