@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-25T14:29:00.939Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="0DKcpGvD9kGc1tcdg2OW" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-25T14:40:14.093Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="EiFWJruMgmMjv1dAInap" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,48 +728,6 @@
         <mxCell id="-5dcCS5CZfdqEaUEvbBu-32" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 3: XXX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="44" y="3240" width="795" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;startArrow=classic;startFill=1;" parent="1" source="-5dcCS5CZfdqEaUEvbBu-34" target="-5dcCS5CZfdqEaUEvbBu-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1102" y="3940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-34" value="Notification Email" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="959" y="3810" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;startArrow=classic;startFill=1;" parent="1" source="-5dcCS5CZfdqEaUEvbBu-36" target="-5dcCS5CZfdqEaUEvbBu-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1732" y="3850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-36" value="Delegation Form" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="989" y="3980" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;startArrow=classic;startFill=1;" parent="1" source="-5dcCS5CZfdqEaUEvbBu-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1224" y="4010" />
-            </Array>
-            <mxPoint x="1074" y="4010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-38" value="Incomplete Email 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1134" y="3810" width="136" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#66B2FF;strokeColor=#3333FF;startArrow=classic;startFill=1;" parent="1" source="-5dcCS5CZfdqEaUEvbBu-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1068" y="4020" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1372" y="4020" />
-              <mxPoint x="1068" y="4020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-40" value="Incomplete Email 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1304" y="3810" width="136" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-5dcCS5CZfdqEaUEvbBu-41" value="Completion Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1474" y="3810" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-5dcCS5CZfdqEaUEvbBu-42" value="Trigger Notification Email Reminder" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1024" y="3446.25" width="90" height="96" as="geometry" />
         </mxCell>
@@ -810,6 +768,12 @@
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-1" value="Update New TC Fields in TC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1487" width="116" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
+          <mxGeometry x="1144" y="1622" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-4" value="&lt;font color=&quot;#ff3333&quot;&gt;Where are we capturing Delegate info? First Name/Last Name and Email. Is this going to live in TC?&amp;nbsp;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1720" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
