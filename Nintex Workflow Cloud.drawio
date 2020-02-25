@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-25T15:00:11.737Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="hztJQAbDcqnHqPIlTnKs" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-25T15:07:38.009Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="3t_1q5JlbY8UUYyWwSab" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
     <mxGraphModel dx="2037" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -894,17 +894,26 @@
         <mxCell id="cyFbFdzZiBKztFkAnU6W-81" value="GM does nothing after XX days" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="919" y="2900" width="105" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-83" target="cyFbFdzZiBKztFkAnU6W-87">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="2890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="2344" />
+              <mxPoint x="1200" y="2691" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-83" value="Generate Reminder email 2 if Submit is not triggered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2316" width="110" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="cyFbFdzZiBKztFkAnU6W-87" value="GM selects link to form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="2691" width="105" height="39" as="geometry" />
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cyFbFdzZiBKztFkAnU6W-90" target="cyFbFdzZiBKztFkAnU6W-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-90" value="GM submits form" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="1145" y="2890.5" width="105" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="cyFbFdzZiBKztFkAnU6W-91" value="Workflow back to Scenario 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
