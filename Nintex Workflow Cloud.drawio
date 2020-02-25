@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-25T15:11:14.726Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="fdKPHGhdR35rPCmy27Mc" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-25T17:00:57.473Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="cqvzIA1GWcGe9QtgBVX8" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
-    <mxGraphModel dx="2037" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -426,7 +426,7 @@
           <mxGeometry x="1025" y="1860" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-30" value="&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;GM adds Name and Email of Delegate. Submission triggers an email to Delegatee. Does this email look different from the GM email?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="708" y="1890" width="140" height="100" as="geometry" />
+          <mxGeometry x="576" y="1830" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-33" value="Update table in TC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1477" width="130" height="45" as="geometry" />
@@ -548,7 +548,7 @@
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-65" value="GM DOES NOTHING AFTER XX DAYS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="2825" y="2740" width="110.5" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Workflow 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="8nMWRrY7rZkJ8qwe4VPy-77" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 1: GM submits the Form&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="1100" width="795" height="145" as="geometry" />
         </mxCell>
         <mxCell id="8nMWRrY7rZkJ8qwe4VPy-78" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;b&gt;Scenario 2: GM Does Nothing&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -919,7 +919,7 @@
           <mxGeometry x="1740" y="1470" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
-          <mxGeometry x="689" y="1876" width="28" height="28" as="geometry" />
+          <mxGeometry x="725.5" y="1876" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cyFbFdzZiBKztFkAnU6W-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="1">
           <mxGeometry x="1720" y="1460" width="28" height="28" as="geometry" />
