@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-27T15:02:19.053Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="FBV0gUDS_PnePJEDtVQY" version="12.7.4" type="github" pages="8">
+<mxfile modified="2020-02-27T15:03:37.203Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="Ssdu_zdezFcwRhzci3HY" version="12.7.4" type="github" pages="8">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
     <mxGraphModel dx="4452" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2634,8 +2634,9 @@
             <mxPoint x="1640" y="610" as="targetPoint" />
             <mxPoint x="1359" y="944" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1380" y="944" />
-              <mxPoint x="1380" y="596" />
+              <mxPoint x="1370" y="944" />
+              <mxPoint x="1370" y="600" />
+              <mxPoint x="1378" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2646,7 +2647,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IbMfc4g1UVEkzC61ztnK-46" value="Update fields in TC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
-          <mxGeometry x="1320" y="540" width="116" height="46" as="geometry" />
+          <mxGeometry x="1320" y="544" width="116" height="46" as="geometry" />
         </mxCell>
         <mxCell id="IbMfc4g1UVEkzC61ztnK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="KUqGNxl90M_13wQ7eJRL-1" source="IbMfc4g1UVEkzC61ztnK-49" target="IbMfc4g1UVEkzC61ztnK-70">
           <mxGeometry relative="1" as="geometry" />
@@ -2976,7 +2977,7 @@
         <mxCell id="R3hzgr-E8itDtcUi3YKR-68" value="Submit on Prem Certification Questions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
           <mxGeometry x="1070" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3hzgr-E8itDtcUi3YKR-70" value="&lt;font color=&quot;#ff3333&quot;&gt;SooRyun: Where will the new certifications&amp;nbsp;live?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
+        <mxCell id="R3hzgr-E8itDtcUi3YKR-70" value="&lt;font color=&quot;#ff3333&quot;&gt;SooRyun: Where will the new certifications&amp;nbsp;live? And is anything updated in TC after certification?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
           <mxGeometry x="1390" y="894" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R3hzgr-E8itDtcUi3YKR-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
