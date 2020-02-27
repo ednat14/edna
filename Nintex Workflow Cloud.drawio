@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-27T19:09:50.234Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="aF55OXNGo8IuERgNi5h2" version="12.7.4" type="github" pages="7">
+<mxfile modified="2020-02-27T19:13:54.297Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="MFABEc2-dstsh-Cc91yL" version="12.7.4" type="github" pages="7">
   <diagram id="GfwvnpMwssvAgRZhQbQI" name="Data Flow">
     <mxGraphModel dx="5704" dy="3212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1539,7 +1539,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="exi51-zaBFiyDVxEposG" name="Nintex MVP Planning">
-    <mxGraphModel dx="15822" dy="9911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KUqGNxl90M_13wQ7eJRL-0" />
         <mxCell id="KUqGNxl90M_13wQ7eJRL-1" parent="KUqGNxl90M_13wQ7eJRL-0" />
@@ -2344,9 +2344,6 @@
         </mxCell>
         <mxCell id="r1iY9U83zLeIfE-vkJEm-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-128.png;align=center;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
           <mxGeometry x="970" y="2812" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="r1iY9U83zLeIfE-vkJEm-112" value="&lt;font color=&quot;#ff3333&quot;&gt;SooRyun: Where will the new certifications&amp;nbsp;live? And is anything updated in TC after certification?&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="KUqGNxl90M_13wQ7eJRL-1">
-          <mxGeometry x="1400" y="904" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
