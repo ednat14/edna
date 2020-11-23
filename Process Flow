@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T19:19:49.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="TFwoXml0o1-gn-f9ZGAU" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T18:59:23.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7wbr4AVPgqdl2ry3_seR" version="13.8.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1186" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="post command" style="" parent="2" vertex="1">
+        <mxCell id="10" value="Candidate Selected" style="" parent="2" vertex="1">
           <mxGeometry x="73.75" y="362" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
@@ -33,7 +33,7 @@
         <mxCell id="5aW3LYXAvTyzBmultrKG-41" value="&lt;font color=&quot;#ffffff&quot;&gt;Need&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
           <mxGeometry x="115" y="55" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5aW3LYXAvTyzBmultrKG-44" value="Who participates in interviews?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="2">
+        <mxCell id="5aW3LYXAvTyzBmultrKG-44" value="&lt;font color=&quot;#ff3333&quot;&gt;Who participates in interviews?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="2">
           <mxGeometry x="-50" y="212" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Orientation" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4" value="Onboarding" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+        <mxCell id="4" value="Ongoing Onboarding" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="33" value="process&#xa;command" style="" parent="4" vertex="1">
